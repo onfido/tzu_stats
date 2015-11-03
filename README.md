@@ -1,4 +1,4 @@
-# TzuStats
+# TzuStats [![Build Status](https://travis-ci.org/onfido/tzu_stats.svg)](https://travis-ci.org/onfido/tzu_stats)
 
 TzuStats uses Shopify's terrific [statsd-instrument gem](https://github.com/Shopify/statsd-instrument/) to instrument Tzu commands using StatsD.
 
